@@ -83,8 +83,6 @@ string longestPalindrome(string s)
     return s.substr(start, end);
 }
 
-
-
 int main() 
 {
     string s = "abcbae";
