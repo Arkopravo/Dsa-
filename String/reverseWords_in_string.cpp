@@ -2,6 +2,9 @@
 using namespace std;
 
 string reverse(string s) {
+    // time complexity is o(n)
+    // space complexity is o(n)
+
     if(s.length() == 0) {
         return "";
     }
