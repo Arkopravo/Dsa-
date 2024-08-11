@@ -1,6 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// time complexity is o(n^3)
+// space complexity is o(n)
+
 bool isPalindrome(string &s, int i, int j)
 {
     while (i <= j)
