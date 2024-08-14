@@ -1,6 +1,11 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+
+// time complexity = o(n)
+// space complexity = o(1)
+
+
 int ATOI(string s)
 {
     int i = 0, n = s.size();
