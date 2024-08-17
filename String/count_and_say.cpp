@@ -46,8 +46,8 @@ string countAndSay(int n)
 
 
 // using recursion
-// time complexity = o(n^2)
-// space complexity = o(n)
+// time complexity = o(2^n)  // exponential  == o(n)
+// space complexity = o(2^n)  // exponential == o(n)
 
 string countAndSay2(int n)
 {
